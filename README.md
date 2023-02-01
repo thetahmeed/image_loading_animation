@@ -5,7 +5,7 @@
     Website: https://tahmeedul.com/
 -->
 
-This is a simple simple ppackage to use image as a custom loading animation
+This is a simple simple package to use image as a custom loading animation
 
 ## Features
 
